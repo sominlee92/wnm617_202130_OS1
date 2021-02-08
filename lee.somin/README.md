@@ -1,4 +1,4 @@
-# Hamilton Cline
+# Somin Lee
 
 ## Project Name Here
 

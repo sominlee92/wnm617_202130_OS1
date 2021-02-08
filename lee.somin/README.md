@@ -4,8 +4,7 @@
 
 ### Important Links
 
-- https://hdraws.com
-- https://hdraws.com/aau/wnm617/cline.hamilton
+- http://somin-lee.com/aau/wnm617_202130_OS1/lee.somin/index.html
 
 
 #### Git Notes

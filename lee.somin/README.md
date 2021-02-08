@@ -4,7 +4,7 @@
 
 ### Important Links
 
-- http://somin-lee.com/aau/wnm617_202130_OS1/lee.somin/index.html
+- http://somin-lee.com/aau/wnm617/lee.somin/index.html
 
 
 #### Git Notes

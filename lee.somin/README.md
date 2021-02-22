@@ -6,6 +6,7 @@
 
 - http://somin-lee.com/aau/wnm617/lee.somin/index.html
 - portfolio profile : http://somin-lee.com/aau/wnm617/lee.somin/profile/index.html
+- initializr: http://somin-lee.com/aau/wnm617/lee.somin/initializr/index.htm
 
 
 #### Git Notes

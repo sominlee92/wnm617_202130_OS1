@@ -1,7 +1,10 @@
 /*! HTML5 Boilerplate v5.0 | MIT License | http://h5bp.com/ */
 
+
 html {
     color: #222;
+    background: #f0faff;
+
     font-size: 1em;
     line-height: 1.4;
 }
@@ -70,18 +73,18 @@ body {
    =================== */
 
 .header-container {
-    border-bottom: 20px solid #e44d26;
+    border-bottom: 20px solid #80cded;
 }
 
 .footer-container,
 .main aside {
-    border-top: 20px solid #e44d26;
+    border-top: 10px solid #80cded;
 }
 
 .header-container,
 .footer-container,
 .main aside {
-    background: #f16529;
+    background: #8cddff;
 }
 
 .title {
@@ -108,7 +111,7 @@ nav a {
     font-weight: bold;
 
     color: white;
-    background: #e44d26;
+    background: #8cddff;
 }
 
 nav a:hover,

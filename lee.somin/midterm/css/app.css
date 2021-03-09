@@ -9,13 +9,13 @@
    --font-serif:Cambria, Georgia, serif;
 
 
-   --color-neutral-light:#ede9e9;
-   --color-neutral-medium:#999191;
-   --color-neutral-dark:#343030;
+   --color-neutral-light:#e8e1ed;
+   --color-neutral-medium:#9883a6;
+   --color-neutral-dark:#534959;
 
-   --color-main-light:#e5f1f2;
-   --color-main-medium:#4ba0a8;
-   --color-main-dark:#0a4349;
+   --color-main-light:#edd9ff;
+   --color-main-medium:#a947ff;
+   --color-main-dark:#8731d4;
 
    --color-white:#fff;
    --color-black:#111;
@@ -102,6 +102,37 @@ a:hover {
    font-size:1rem;
    padding:0;
 }
+
+
+
+
+
+
+
+
+/* Navigation Elements */
+[data-role="header"] a,
+[data-role="footer"] a {
+  display:block;
+  margin:0;
+}
+
+[data-role="footer"] ul {
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  display:flex;
+}
+[data-role="footer"] li {
+  text-align:center;
+  flex: 1 1 auto;
+}
+
+[data-role="header"] a {
+  padding: 0 1em;
+}
+
+
 
 
 
